@@ -1,0 +1,9 @@
+'Verify.Submission.Scored399Peak22.literalS_length' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Verify.Submission.Scored399Peak22.cap_at_least_22' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Verify.Submission.Scored399Peak22.reachesAtCap_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Verify.Submission.Scored399Peak22.joins_bridge42_after_10' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Verify.Submission.Scored399Peak22.same_last32' does not depend on any axioms
+'Verify.Submission.Scored399Peak22.bridge44_length' does not depend on any axioms
+'Verify.Submission.Scored399Peak22.bridge44_reaches' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Verify.Submission.Scored399Peak22.bridge44_cap22' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Verify.Submission.Scored399Peak22.bridge44_attains22' depends on axioms: [propext, Classical.choice, Quot.sound]

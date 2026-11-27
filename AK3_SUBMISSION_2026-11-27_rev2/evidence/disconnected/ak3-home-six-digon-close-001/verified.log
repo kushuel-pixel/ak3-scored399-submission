@@ -1,0 +1,16 @@
+'AK3.SubVPicture.RingGeneralSix.digon_walk_rows' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixDigonWalk
+'AK3.SubVPicture.RingGeneralSix.counterrotation_phase' depends on axioms: [propext, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.reject_survivorA' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.reject_survivorB' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.two_bad_witness' depends on axioms: [propext, Quot.sound]
+PASS VFiveSixReversePhase
+'AK3.SubVPicture.RingGeneralSix.actual_digon_reverse_rejected' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixDigonReverseActual
+'AK3.SubVPicture.RingGeneralSix.verified_fingerprints_reject' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.charged_two_row_all_degree_two_excluded' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixDigonAll

@@ -1,0 +1,24 @@
+'AK3.SubVPicture.RingGeneralSix.six_mixed_region_subsingleton' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.two_components_have_closed_factor' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixTwoMixed
+'AK3.SubVPicture.RingGeneralSix.two_components_crossing_spends_budget' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.two_components_crossing_has_two_orbits' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixTwoContact
+'AK3.SubVPicture.RingGeneralSix.two_component_factor_table' depends on axioms: [propext, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.two_component_candidate_count' depends on axioms: [propext, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.two_component_negative_mask_in_census' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixTwoCensus
+'AK3.SubVPicture.RingGeneralSix.two_component_neutral_or_one_contact' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixTwoReduction

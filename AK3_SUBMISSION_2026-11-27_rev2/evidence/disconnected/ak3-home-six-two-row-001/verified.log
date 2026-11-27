@@ -1,0 +1,27 @@
+'AK3.SubVPicture.RingGeneralSix.pair_row_counts' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.pair_row_vertex_agrees' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixPairPlanar
+VFiveSixDegreeProfile.lean:32:67: warning: Unused tactic linter: `<;>` should be replaced with `;` or be removed.
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+VFiveSixDegreeProfile.lean:32:67: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+'AK3.SubVPicture.RingGeneralSix.permutation_degree_two_profile' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixDegreeProfile
+'AK3.SubVPicture.RingGeneralSix.actual_two_row_degree_profile' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixPairProfile
+'AK3.SubVPicture.RingGeneralSix.charged_allocations_covered' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.charged_pair_count' depends on axioms: [propext, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.charged_triple_count' depends on axioms: [propext, Quot.sound]
+PASS VFiveSixPairCensus
+'AK3.SubVPicture.RingGeneralSix.degree_two_forces_double_return' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.return_two_reverses_step' depends on axioms: [Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.return_two_reverses_rows' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixPairOrder

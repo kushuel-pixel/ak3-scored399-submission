@@ -1,0 +1,24 @@
+Lean 4.35.0; HOME existing dependency cache; incremental checks.
+'AK3.SubVPicture.RingGeneralSix.componentMask_proper' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.chosenDart_chart_step' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixComponentMask
+'AK3.SubVPicture.RingGeneralSix.componentFactorSum_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixComponentResidue
+'AK3.SubVPicture.RingGeneralSix.componentFactorSum_as_rows' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixRowFactors
+'AK3.SubVPicture.RingGeneralSix.six_isolated_anchor_pair_excluded' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixIsolatedAnchor
+'AK3.SubVPicture.RingGeneralSix.anchor_component_mask_excluded' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixComponentAnchor
+'AK3.SubVPicture.RingGeneralSix.region_closed_component_classified' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixSplitTable
+'AK3.SubVPicture.RingGeneralSix.negative_component_only_exceptional_if_closed' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixNegativeSplit

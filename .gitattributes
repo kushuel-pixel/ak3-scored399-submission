@@ -1,0 +1,4 @@
+/README.md text eol=lf
+/.gitattributes text eol=lf
+/AK3_SUBMISSION_2026-11-27_rev2/** -text
+*.zip binary

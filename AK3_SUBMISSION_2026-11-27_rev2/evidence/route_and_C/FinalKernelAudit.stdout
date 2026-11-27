@@ -1,0 +1,10 @@
+@[reducible] def AK3.SSeven.Common : Type :=
+Verify.F ⧸ RBNorm
+def AK3.SSeven.commonMap : Verify.F →* Common :=
+QuotientGroup.mk' RBNorm
+AK3.SSeven.FreeCap.RawChart.yQ_ne_one_by_curvature : AK3.SSeven.yQ ≠ 1
+AK3.SSeven.FreeCap.RawChart.common_nonconjugate_by_curvature (c : AK3.SSeven.Common) :
+  c * AK3.SSeven.commonMap (FreeGroup.mk AK3.SSeven.aWord) * c⁻¹ ≠ AK3.SSeven.commonMap (FreeGroup.mk AK3.SSeven.fWord)
+'AK3.SSeven.FreeCap.RawChart.common_nonconjugate_by_curvature' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,12 @@
+'AK3.SubVPicture.RingGeneralSix.orbitResidue_eq_corner_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixOrbitBlocks
+'AK3.SubVPicture.RingGeneralSix.orbitResidue_eq_literal_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixContactLiteral
+'AK3.SubVPicture.RingGeneralSix.one_corner_failures_empty' depends on axioms: [propext, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.two_fixed_contacts_pass' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixOneCorner
+'AK3.SubVPicture.RingGeneralSix.contact_successor_literal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.fixed_contact_requires_adjacent_mate' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixContactOrder

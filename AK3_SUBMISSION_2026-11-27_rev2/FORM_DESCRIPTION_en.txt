@@ -1,0 +1,9 @@
+ACC-P000029 studied paths from the conventionally written AK(3) start A to a fixed pair S. Here we use the start (YXYxyx, YYYYxxx) as written in the official scoring row ac-00399. A 44-move sequence reaches S = (XyyyxYYYY, xxYYYYYXyyyyy). The Lean kernel verifies the ordered endpoint and a bound of 22 on the total freely reduced length in all 45 states. Since S itself has total length 22, the minimum peak from the official start to S is exactly 22. We make no claim that 44 moves is optimal.
+
+Write S = (f,r), Q = (f,xxYXy), and E₃ = (f,xxYYYYXyyyy). Lean verifies the 187-move connection between E₃ and Q and the 62-move connection between Q and a fixed pair (a,b), each in both directions. Appending the appropriate connection shows that, with no length cap, S can reach E₃ if and only if S can reach (a,b). Python replay gives a peak of 682 for the 249-move path between E₃ and (a,b).
+
+In the original common quotient C = F(x,y)/⟨⟨r,b⟩⟩, which kills the second words of S and (a,b), Lean proves that the images of the first words f and a are nonconjugate. The quotient rules out paths from S to (a,b) built entirely from moves on the second word alone, conjugations of the first word, and right multiplications of the first word by the current second word or its inverse when that second word maps to the identity in C. Whether S can reach E₃ with all allowed moves remains unresolved.
+
+AI assistance was used in search, implementation, proof and verification work, and drafting. The English text is an AI-assisted translation of the Japanese original.
+
+Checks to date include Lean verification of the formal proofs, AI-assisted replay of the move sequences, and human review of theorem statements, replay results, and axiom reports, with independent expert assessment of the mathematics still unconfirmed.

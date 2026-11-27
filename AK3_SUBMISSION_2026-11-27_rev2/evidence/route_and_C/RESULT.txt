@@ -1,0 +1,17 @@
+HOME LEAN PASS
+modules=13
+transitive_axiom_audits=28
+peak_MiB=2474.4
+ChosenConnected
+ChosenVertexPhase
+OrbitCoordinates
+CompressionFaces
+KeptDegree
+SkipCancellation
+KeptCounts
+FaceCoordinatesChosen
+VertexCoordinatesChosen
+GeometricFaces
+GeometricPhase
+TerminalAssembly
+FinalKernelAudit

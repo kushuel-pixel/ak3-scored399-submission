@@ -1,0 +1,18 @@
+'AK3.SubVPicture.RingGeneralSix.fixed_gap_is_shared' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.fixed_gaps_unique_in_component' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixFixedGap
+'AK3.SubVPicture.RingGeneralSix.one_row_planar_counts' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixRowPlanar
+'AK3.SubVPicture.RingGeneralSix.one_row_forces_two_fixed' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixRowFixed
+'AK3.SubVPicture.RingGeneralSix.actual_crossing_avoids_one_row_failures' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.one_row_failure_count' depends on axioms: [propext, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.no_singleton_contact_count' depends on axioms: [propext, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.two_component_reduced_charged_contact' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+PASS VFiveSixRowExclusion

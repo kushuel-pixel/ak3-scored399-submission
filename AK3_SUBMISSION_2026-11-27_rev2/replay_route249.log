@@ -1,0 +1,2 @@
+PASS: E3 <-> Q <-> (a,b), 187 + 62 = 249 moves, exact reverse replay.
+PASS: endpoint lengths 283 + 399; observed peak 682 (Python).

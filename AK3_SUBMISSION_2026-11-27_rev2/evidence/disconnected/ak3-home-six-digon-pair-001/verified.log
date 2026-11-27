@@ -1,0 +1,15 @@
+'AK3.SubVPicture.RingGeneralSix.actual_digon_pair_lengths' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixDigonLengths
+'AK3.SubVPicture.RingGeneralSix.actual_digon_pair_passes_length_table' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.digon_length_survivors' depends on axioms: [propext, Quot.sound]
+PASS VFiveSixDigonLengthTable
+'AK3.SubVPicture.RingGeneralSix.survivorA_reverse_min' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.survivorB_reverse_min' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixDigonMismatch
+'AK3.SubVPicture.RingGeneralSix.nonzero_orbits_unique_in_component' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AK3.SubVPicture.RingGeneralSix.digon_residue_two_corners' depends on axioms: [propext, Classical.choice, Quot.sound]
+PASS VFiveSixDefectUnique
